@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfHuman xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Human>
+    <Name>Nikita</Name>
+    <Surname>Klochkov</Surname>
+    <Telephone>063159</Telephone>
+    <Email>nick@gmail.com</Email>
+  </Human>
+  <Human>
+    <Name>Dima</Name>
+    <Surname>Kitzenko</Surname>
+    <Telephone>063322</Telephone>
+    <Email>dead@gmai.com</Email>
+  </Human>
+  <Human>
+    <Name>Vania</Name>
+    <Surname>But</Surname>
+    <Telephone>063777</Telephone>
+    <Email>but@gmail.com</Email>
+  </Human>
+</ArrayOfHuman>
